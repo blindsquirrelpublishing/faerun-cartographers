@@ -45,3 +45,11 @@ If any fails, regenerate or explicitly disclose the discrepancy. Image-generatio
 ## Files
 - `references/geometry-manifest-template.json` is the canonical data schema starter.
 - `references/validation-checklist.md` is the QA form.
+
+## Example
+
+[View sample image](assets/example.jpg)
+
+![Fictional faerun-map-geometry-master sample](assets/example.jpg)
+
+Use this image as a style example only. It shows the fictional town of Alderford. Geometry, grid, scale, heights, labels, and plat layout have not been fully checked; follow the written rules when making maps.

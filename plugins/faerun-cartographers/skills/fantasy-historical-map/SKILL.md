@@ -46,3 +46,11 @@ Provide the finished requested visual or structured map file when feasible, plus
 - [ ] Numeric measurements and periods supported by input or clearly marked unknown.
 - [ ] Geometry and route connections compared against base reference.
 - [ ] Map symbols, line types and legend are clear and consistent.
+
+## Example
+
+[View sample image](assets/example.jpg)
+
+![Fictional fantasy-historical-map sample](assets/example.jpg)
+
+Use this image as a style example only. It shows the fictional town of Alderford. Geometry, grid, scale, heights, labels, and plat layout have not been fully checked; follow the written rules when making maps.

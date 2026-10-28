@@ -10,3 +10,11 @@ All styles must preserve source-map geometry: building footprint positions and o
 
 ## Workflow
 Render watercolor and ink, district colors, roofs, fields, walls, gates, numbered locations and legend. Anchor all visible buildings to their traced footprints; avoid invented roads.
+
+## Example
+
+[View sample image](assets/example.jpg)
+
+![Fictional fantasy-illustrated-town-atlas sample](assets/example.jpg)
+
+Use this image as a style example only. It shows the fictional town of Alderford. Geometry, grid, scale, heights, labels, and plat layout have not been fully checked; follow the written rules when making maps.

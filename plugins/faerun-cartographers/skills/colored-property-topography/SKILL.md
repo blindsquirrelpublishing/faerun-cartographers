@@ -28,3 +28,11 @@ Maintain all verified source features and named landmarks at their source coordi
 
 ## Reusable prompt
 > Convert the attached **SOURCE MAP** into **Combined Topographic and Property Map**. Use the separate **STYLE REFERENCE** for appearance only. Preserve the source map's north orientation, road intersections, building positions and footprints, walls, gates, bridges, watercourses, terrain features, named landmarks and numbered points of interest. Do not add or relocate geographic features. Color land-use parcels and gray footprints over subdued elevation contours. Maintain both source alignments exactly. Keep source aspect ratio and extent. If source geometry is uncertain, retain the visible geometry rather than inventing it. No unsupported labels.
+
+## Example
+
+[View sample image](assets/example.jpg)
+
+![Fictional colored-property-topography sample](assets/example.jpg)
+
+Use this image as a style example only. It shows the fictional town of Alderford. Geometry, grid, scale, heights, labels, and plat layout have not been fully checked; follow the written rules when making maps.

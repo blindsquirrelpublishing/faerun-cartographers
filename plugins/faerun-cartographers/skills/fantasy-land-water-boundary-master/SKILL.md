@@ -54,3 +54,11 @@ Use the most recent user-approved plat standard in preference to outdated bundle
 
 ## Failure recovery
 If any validation fails, do not describe the map as exact, authoritative, or overlay-compatible. Return to the approved master geometry; isolate and fix only the thematic layer, preserve unchanged bank and island masks, and rerun the overlay check.
+
+## Example
+
+[View sample image](assets/example.jpg)
+
+![Fictional fantasy-land-water-boundary-master sample](assets/example.jpg)
+
+Use this image as a style example only. It shows the fictional town of Alderford. Geometry, grid, scale, heights, labels, and plat layout have not been fully checked; follow the written rules when making maps.

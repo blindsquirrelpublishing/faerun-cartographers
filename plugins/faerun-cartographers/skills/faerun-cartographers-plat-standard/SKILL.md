@@ -56,3 +56,11 @@ Use **Arial / sans-serif** throughout. Nominal sizes at 19 × 13 inches: Locatio
 - [ ] Scale statement, actual cell geometry, bar length and tick labels agree.
 - [ ] Land-water geometry unchanged from approved geographic master.
 - [ ] No unsupported cartographic precision asserted.
+
+## Example
+
+[View sample image](assets/example.jpg)
+
+![Fictional faerun-cartographers-plat-standard sample](assets/example.jpg)
+
+Use this image as a style example only. It shows the fictional town of Alderford. Geometry, grid, scale, heights, labels, and plat layout have not been fully checked; follow the written rules when making maps.

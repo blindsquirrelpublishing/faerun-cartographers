@@ -59,3 +59,254 @@ Then select Faerûn Cartographers from that marketplace.
 - **topographic-ghosted**: Topography dominates while source roads and footprints appear faintly. Convert any supplied geographic map to this style while preserving all mapped landmarks and geometry.
 - **watercolor-closeup**: Rich warm watercolor close-up of a selected town neighborhood. Convert any supplied geographic map to this style while preserving all mapped landmarks and geometry.
 - **watercolor-town-atlas**: Illustrated fantasy settlement atlas, colorful and detailed. Convert any supplied geographic map to this style while preserving all mapped landmarks and geometry.
+
+## Example gallery
+
+Each skill includes a fictional Alderford style sample. These are visual examples, not checked survey maps or approved standard plats.
+
+### black-ink-contour-atlas
+
+[Skill](plugins/faerun-cartographers/skills/black-ink-contour-atlas/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/black-ink-contour-atlas/assets/example.jpg)
+
+![Sample: black-ink-contour-atlas](plugins/faerun-cartographers/skills/black-ink-contour-atlas/assets/example.jpg)
+
+### black-ink-simple-reference
+
+[Skill](plugins/faerun-cartographers/skills/black-ink-simple-reference/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/black-ink-simple-reference/assets/example.jpg)
+
+![Sample: black-ink-simple-reference](plugins/faerun-cartographers/skills/black-ink-simple-reference/assets/example.jpg)
+
+### bold-roof-ink
+
+[Skill](plugins/faerun-cartographers/skills/bold-roof-ink/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/bold-roof-ink/assets/example.jpg)
+
+![Sample: bold-roof-ink](plugins/faerun-cartographers/skills/bold-roof-ink/assets/example.jpg)
+
+### colored-property-topography
+
+[Skill](plugins/faerun-cartographers/skills/colored-property-topography/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/colored-property-topography/assets/example.jpg)
+
+![Sample: colored-property-topography](plugins/faerun-cartographers/skills/colored-property-topography/assets/example.jpg)
+
+### comic-flat-color
+
+[Skill](plugins/faerun-cartographers/skills/comic-flat-color/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/comic-flat-color/assets/example.jpg)
+
+![Sample: comic-flat-color](plugins/faerun-cartographers/skills/comic-flat-color/assets/example.jpg)
+
+### dense-walled-watercolor
+
+[Skill](plugins/faerun-cartographers/skills/dense-walled-watercolor/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/dense-walled-watercolor/assets/example.jpg)
+
+![Sample: dense-walled-watercolor](plugins/faerun-cartographers/skills/dense-walled-watercolor/assets/example.jpg)
+
+### detailed-ink-overhead
+
+[Skill](plugins/faerun-cartographers/skills/detailed-ink-overhead/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/detailed-ink-overhead/assets/example.jpg)
+
+![Sample: detailed-ink-overhead](plugins/faerun-cartographers/skills/detailed-ink-overhead/assets/example.jpg)
+
+### elevated-lookout-view
+
+[Skill](plugins/faerun-cartographers/skills/elevated-lookout-view/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/elevated-lookout-view/assets/example.jpg)
+
+![Sample: elevated-lookout-view](plugins/faerun-cartographers/skills/elevated-lookout-view/assets/example.jpg)
+
+### faerun-cartographers-plat-standard
+
+[Skill](plugins/faerun-cartographers/skills/faerun-cartographers-plat-standard/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/faerun-cartographers-plat-standard/assets/example.jpg)
+
+![Sample: faerun-cartographers-plat-standard](plugins/faerun-cartographers/skills/faerun-cartographers-plat-standard/assets/example.jpg)
+
+### faerun-map-geometry-master
+
+[Skill](plugins/faerun-cartographers/skills/faerun-map-geometry-master/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/faerun-map-geometry-master/assets/example.jpg)
+
+![Sample: faerun-map-geometry-master](plugins/faerun-cartographers/skills/faerun-map-geometry-master/assets/example.jpg)
+
+### fantasy-cartography-core
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-cartography-core/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-cartography-core/assets/example.jpg)
+
+![Sample: fantasy-cartography-core](plugins/faerun-cartographers/skills/fantasy-cartography-core/assets/example.jpg)
+
+### fantasy-city-district-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-city-district-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-city-district-map/assets/example.jpg)
+
+![Sample: fantasy-city-district-map](plugins/faerun-cartographers/skills/fantasy-city-district-map/assets/example.jpg)
+
+### fantasy-dungeon-underground-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-dungeon-underground-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-dungeon-underground-map/assets/example.jpg)
+
+![Sample: fantasy-dungeon-underground-map](plugins/faerun-cartographers/skills/fantasy-dungeon-underground-map/assets/example.jpg)
+
+### fantasy-gis-cadastral
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-gis-cadastral/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-gis-cadastral/assets/example.jpg)
+
+![Sample: fantasy-gis-cadastral](plugins/faerun-cartographers/skills/fantasy-gis-cadastral/assets/example.jpg)
+
+### fantasy-ground-level-view
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-ground-level-view/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-ground-level-view/assets/example.jpg)
+
+![Sample: fantasy-ground-level-view](plugins/faerun-cartographers/skills/fantasy-ground-level-view/assets/example.jpg)
+
+### fantasy-hex-world-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-hex-world-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-hex-world-map/assets/example.jpg)
+
+![Sample: fantasy-hex-world-map](plugins/faerun-cartographers/skills/fantasy-hex-world-map/assets/example.jpg)
+
+### fantasy-historical-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-historical-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-historical-map/assets/example.jpg)
+
+![Sample: fantasy-historical-map](plugins/faerun-cartographers/skills/fantasy-historical-map/assets/example.jpg)
+
+### fantasy-hypsometric-elevation-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-hypsometric-elevation-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-hypsometric-elevation-map/assets/example.jpg)
+
+![Sample: fantasy-hypsometric-elevation-map](plugins/faerun-cartographers/skills/fantasy-hypsometric-elevation-map/assets/example.jpg)
+
+### fantasy-illustrated-town-atlas
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-illustrated-town-atlas/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-illustrated-town-atlas/assets/example.jpg)
+
+![Sample: fantasy-illustrated-town-atlas](plugins/faerun-cartographers/skills/fantasy-illustrated-town-atlas/assets/example.jpg)
+
+### fantasy-isometric-settlement-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-isometric-settlement-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-isometric-settlement-map/assets/example.jpg)
+
+![Sample: fantasy-isometric-settlement-map](plugins/faerun-cartographers/skills/fantasy-isometric-settlement-map/assets/example.jpg)
+
+### fantasy-land-cover-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-land-cover-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-land-cover-map/assets/example.jpg)
+
+![Sample: fantasy-land-cover-map](plugins/faerun-cartographers/skills/fantasy-land-cover-map/assets/example.jpg)
+
+### fantasy-land-water-boundary-master
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-land-water-boundary-master/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-land-water-boundary-master/assets/example.jpg)
+
+![Sample: fantasy-land-water-boundary-master](plugins/faerun-cartographers/skills/fantasy-land-water-boundary-master/assets/example.jpg)
+
+### fantasy-physical-geography-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-physical-geography-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-physical-geography-map/assets/example.jpg)
+
+![Sample: fantasy-physical-geography-map](plugins/faerun-cartographers/skills/fantasy-physical-geography-map/assets/example.jpg)
+
+### fantasy-political-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-political-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-political-map/assets/example.jpg)
+
+![Sample: fantasy-political-map](plugins/faerun-cartographers/skills/fantasy-political-map/assets/example.jpg)
+
+### fantasy-topographic-survey
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-topographic-survey/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-topographic-survey/assets/example.jpg)
+
+![Sample: fantasy-topographic-survey](plugins/faerun-cartographers/skills/fantasy-topographic-survey/assets/example.jpg)
+
+### fantasy-trade-transportation-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-trade-transportation-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-trade-transportation-map/assets/example.jpg)
+
+![Sample: fantasy-trade-transportation-map](plugins/faerun-cartographers/skills/fantasy-trade-transportation-map/assets/example.jpg)
+
+### fantasy-watercolor-landscape
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-watercolor-landscape/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-watercolor-landscape/assets/example.jpg)
+
+![Sample: fantasy-watercolor-landscape](plugins/faerun-cartographers/skills/fantasy-watercolor-landscape/assets/example.jpg)
+
+### gis-cadastral
+
+[Skill](plugins/faerun-cartographers/skills/gis-cadastral/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/gis-cadastral/assets/example.jpg)
+
+![Sample: gis-cadastral](plugins/faerun-cartographers/skills/gis-cadastral/assets/example.jpg)
+
+### ground-level-city-view
+
+[Skill](plugins/faerun-cartographers/skills/ground-level-city-view/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/ground-level-city-view/assets/example.jpg)
+
+![Sample: ground-level-city-view](plugins/faerun-cartographers/skills/ground-level-city-view/assets/example.jpg)
+
+### historic-ink-parchment
+
+[Skill](plugins/faerun-cartographers/skills/historic-ink-parchment/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/historic-ink-parchment/assets/example.jpg)
+
+![Sample: historic-ink-parchment](plugins/faerun-cartographers/skills/historic-ink-parchment/assets/example.jpg)
+
+### minimalist-footprints
+
+[Skill](plugins/faerun-cartographers/skills/minimalist-footprints/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/minimalist-footprints/assets/example.jpg)
+
+![Sample: minimalist-footprints](plugins/faerun-cartographers/skills/minimalist-footprints/assets/example.jpg)
+
+### numbered-gazetteer
+
+[Skill](plugins/faerun-cartographers/skills/numbered-gazetteer/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/numbered-gazetteer/assets/example.jpg)
+
+![Sample: numbered-gazetteer](plugins/faerun-cartographers/skills/numbered-gazetteer/assets/example.jpg)
+
+### pictorial-watercolor-gazetteer
+
+[Skill](plugins/faerun-cartographers/skills/pictorial-watercolor-gazetteer/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/pictorial-watercolor-gazetteer/assets/example.jpg)
+
+![Sample: pictorial-watercolor-gazetteer](plugins/faerun-cartographers/skills/pictorial-watercolor-gazetteer/assets/example.jpg)
+
+### simple-walled-ink-sketch
+
+[Skill](plugins/faerun-cartographers/skills/simple-walled-ink-sketch/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/simple-walled-ink-sketch/assets/example.jpg)
+
+![Sample: simple-walled-ink-sketch](plugins/faerun-cartographers/skills/simple-walled-ink-sketch/assets/example.jpg)
+
+### tactical-clean-grid
+
+[Skill](plugins/faerun-cartographers/skills/tactical-clean-grid/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/tactical-clean-grid/assets/example.jpg)
+
+![Sample: tactical-clean-grid](plugins/faerun-cartographers/skills/tactical-clean-grid/assets/example.jpg)
+
+### tactical-detailed-grid
+
+[Skill](plugins/faerun-cartographers/skills/tactical-detailed-grid/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/tactical-detailed-grid/assets/example.jpg)
+
+![Sample: tactical-detailed-grid](plugins/faerun-cartographers/skills/tactical-detailed-grid/assets/example.jpg)
+
+### topographic-colored
+
+[Skill](plugins/faerun-cartographers/skills/topographic-colored/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/topographic-colored/assets/example.jpg)
+
+![Sample: topographic-colored](plugins/faerun-cartographers/skills/topographic-colored/assets/example.jpg)
+
+### topographic-contours-only
+
+[Skill](plugins/faerun-cartographers/skills/topographic-contours-only/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/topographic-contours-only/assets/example.jpg)
+
+![Sample: topographic-contours-only](plugins/faerun-cartographers/skills/topographic-contours-only/assets/example.jpg)
+
+### topographic-ghosted
+
+[Skill](plugins/faerun-cartographers/skills/topographic-ghosted/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/topographic-ghosted/assets/example.jpg)
+
+![Sample: topographic-ghosted](plugins/faerun-cartographers/skills/topographic-ghosted/assets/example.jpg)
+
+### watercolor-closeup
+
+[Skill](plugins/faerun-cartographers/skills/watercolor-closeup/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/watercolor-closeup/assets/example.jpg)
+
+![Sample: watercolor-closeup](plugins/faerun-cartographers/skills/watercolor-closeup/assets/example.jpg)
+
+### watercolor-town-atlas
+
+[Skill](plugins/faerun-cartographers/skills/watercolor-town-atlas/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/watercolor-town-atlas/assets/example.jpg)
+
+![Sample: watercolor-town-atlas](plugins/faerun-cartographers/skills/watercolor-town-atlas/assets/example.jpg)
+

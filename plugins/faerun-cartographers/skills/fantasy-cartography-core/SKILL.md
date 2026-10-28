@@ -10,3 +10,11 @@ All styles must preserve source-map geometry: building footprint positions and o
 
 ## Workflow
 Trace buildings, streets, water, walls, parcels, landmarks into shared named layers with source IDs. Record scale, north, known control points and uncertainties. Compare resulting maps to original coordinates.
+
+## Example
+
+[View sample image](assets/example.jpg)
+
+![Fictional fantasy-cartography-core sample](assets/example.jpg)
+
+Use this image as a style example only. It shows the fictional town of Alderford. Geometry, grid, scale, heights, labels, and plat layout have not been fully checked; follow the written rules when making maps.

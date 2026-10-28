@@ -46,3 +46,11 @@ For a Faerûn Cartographers plat, load the actual `faerun-cartographers-plat-sta
 Check source alignment, water connections, cell shape, terrain key, label spelling, label overlap, symbol spacing, border meaning, and scale. Inspect the full rendered map and a close view. Use the checklist in the style guide. Fix failures before delivery. State any known limits that remain.
 
 Save the finished map and any requested editable source using the current file workflow. Include a short note on source evidence, scale status, and any generalized features. Do not claim exact source fidelity or standards compliance without checking it.
+
+## Example
+
+[View sample image](assets/example.jpg)
+
+![Fictional fantasy-hex-world-map sample](assets/example.jpg)
+
+Use this image as a style example only. It shows the fictional town of Alderford. Geometry, grid, scale, heights, labels, and plat layout have not been fully checked; follow the written rules when making maps.
