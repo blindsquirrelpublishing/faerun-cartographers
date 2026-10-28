@@ -60,6 +60,20 @@ Then select Faerûn Cartographers from that marketplace.
 - **watercolor-closeup**: Rich warm watercolor close-up of a selected town neighborhood. Convert any supplied geographic map to this style while preserving all mapped landmarks and geometry.
 - **watercolor-town-atlas**: Illustrated fantasy settlement atlas, colorful and detailed. Convert any supplied geographic map to this style while preserving all mapped landmarks and geometry.
 
+
+## Install in Claude Code
+
+Add the marketplace, then install the plugin:
+
+```text
+/plugin marketplace add blindsquirrelpublishing/faerun-cartographers
+/plugin install faerun-cartographers@faerun-cartographers
+```
+
+If the marketplace was already added, refresh it first with `/plugin marketplace update faerun-cartographers`.
+
+The plugin includes all 41 skills. Image output depends on the image tools available in your Claude setup.
+
 ## Example gallery
 
 Each skill includes a fictional Alderford style sample. These are visual examples, not checked survey maps or approved standard plats.

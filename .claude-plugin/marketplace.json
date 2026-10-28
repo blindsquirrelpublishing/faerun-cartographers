@@ -1,0 +1,13 @@
+{
+  "name": "faerun-cartographers",
+  "owner": {
+    "name": "Murray Fife"
+  },
+  "plugins": [
+    {
+      "name": "faerun-cartographers",
+      "source": "./plugins/faerun-cartographers",
+      "description": "41 fantasy map skills with shared rules and sample images."
+    }
+  ]
+}

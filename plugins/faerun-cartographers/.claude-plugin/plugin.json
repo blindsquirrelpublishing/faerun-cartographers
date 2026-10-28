@@ -1,0 +1,9 @@
+{
+  "name": "faerun-cartographers",
+  "version": "1.0.0",
+  "description": "41 fantasy map skills with shared geometry rules and supporting files.",
+  "author": {
+    "name": "Murray Fife"
+  },
+  "repository": "https://github.com/blindsquirrelpublishing/faerun-cartographers"
+}
