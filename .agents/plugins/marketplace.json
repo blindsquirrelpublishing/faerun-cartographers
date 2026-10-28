@@ -1,0 +1,19 @@
+{
+  "name": "faerun-cartographers",
+  "interface": {
+    "displayName": "Faerûn Cartographers"
+  },
+  "plugins": [
+    {
+      "name": "faerun-cartographers",
+      "source": {
+        "source": "local",
+        "path": "./plugins/faerun-cartographers"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Creativity"
+    }
+  ]
+}

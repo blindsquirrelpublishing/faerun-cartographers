@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "faerun-cartographers",
+  "version": "1.0.0",
+  "description": "Shared source-map rules for fantasy cartography.",
+  "author": {
+    "name": "Murray Fife"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Faerûn Cartographers",
+        "shortDescription": "Fantasy cartography source-map rules",
+        "longDescription": "Keep map positions, scale, and source details in place.",
+        "developerName": "Murray Fife",
+        "category": "Creativity"
+      }
+    }
+  }
+}

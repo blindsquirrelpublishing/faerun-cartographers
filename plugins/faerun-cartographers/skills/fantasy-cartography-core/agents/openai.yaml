@@ -1,0 +1,12 @@
+interface:
+  display_name: fantasy cartography core
+  short_description: Coordinate source maps and enforce positional fidelity.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
