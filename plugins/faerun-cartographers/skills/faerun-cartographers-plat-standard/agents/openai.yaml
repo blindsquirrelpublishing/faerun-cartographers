@@ -1,0 +1,15 @@
+interface:
+  display_name: faerun cartographers plat standard
+  short_description: Apply deterministic Faerûn Cartographers Plat Standard v1.8 framing
+    to all fantasy cartography plates, with locked 19:13 sheet geometry, fixed 20%
+    sidebar and 15/15/60/10 zones, sans-serif typography, A–Q / 1–16 square-cell reference
+    grid, official circular stamp, fixed compass and verified scale bar.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

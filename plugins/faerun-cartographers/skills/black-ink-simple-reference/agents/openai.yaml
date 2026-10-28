@@ -1,0 +1,14 @@
+interface:
+  display_name: black ink simple reference
+  short_description: Unadorned top-down pen drawing like hand-drafted building plan.
+    Convert any supplied geographic map to this style while preserving all mapped
+    landmarks and geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

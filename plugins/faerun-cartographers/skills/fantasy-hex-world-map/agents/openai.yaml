@@ -1,0 +1,14 @@
+interface:
+  display_name: Fantasy Hex World Map
+  short_description: Classic hex maps with terrain tiles and ink icons
+  default_prompt: Use $fantasy-hex-world-map to draw a world or region map in this
+    classic hex terrain style.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

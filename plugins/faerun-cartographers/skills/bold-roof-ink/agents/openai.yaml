@@ -1,0 +1,14 @@
+interface:
+  display_name: bold roof ink
+  short_description: Expressive tabletop cartography with black roof outlines and
+    dark shadows. Convert any supplied geographic map to this style while preserving
+    all mapped landmarks and geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

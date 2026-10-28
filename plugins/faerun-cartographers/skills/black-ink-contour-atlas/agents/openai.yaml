@@ -1,0 +1,14 @@
+interface:
+  display_name: black ink contour atlas
+  short_description: Precise pen-only overhead atlas with light terrain contours.
+    Convert any supplied geographic map to this style while preserving all mapped
+    landmarks and geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

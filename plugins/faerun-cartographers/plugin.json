@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "faerun-cartographers",
   "version": "1.0.0",
-  "description": "Shared source-map rules for fantasy cartography.",
+  "description": "41 fantasy map skills with shared geometry rules and supporting files.",
   "author": {
     "name": "Murray Fife"
   },
@@ -10,8 +10,8 @@
     "com.openai": {
       "interface": {
         "displayName": "Faerûn Cartographers",
-        "shortDescription": "Fantasy cartography source-map rules",
-        "longDescription": "Keep map positions, scale, and source details in place.",
+        "shortDescription": "41 fantasy map skills",
+        "longDescription": "Map styles and shared rules for terrain, towns, cities, hex maps, and map checks.",
         "developerName": "Murray Fife",
         "category": "Creativity"
       }

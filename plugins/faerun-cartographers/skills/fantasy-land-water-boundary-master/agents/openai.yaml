@@ -1,0 +1,14 @@
+interface:
+  display_name: fantasy land water boundary master
+  short_description: Produce and validate authoritative land/water topology masks
+    for Faerûn Cartographers, safeguarding shorelines, islands, and river connections
+    between cadastral, topographic, political, land-cover, and illustrated map plates.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

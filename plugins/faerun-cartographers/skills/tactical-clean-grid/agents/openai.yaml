@@ -1,0 +1,13 @@
+interface:
+  display_name: tactical clean grid
+  short_description: Minimal clean top-down tabletop grid map. Convert any supplied
+    geographic map to this style while preserving all mapped landmarks and geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

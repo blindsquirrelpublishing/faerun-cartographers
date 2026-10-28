@@ -1,0 +1,14 @@
+interface:
+  display_name: topographic ghosted
+  short_description: Topography dominates while source roads and footprints appear
+    faintly. Convert any supplied geographic map to this style while preserving all
+    mapped landmarks and geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

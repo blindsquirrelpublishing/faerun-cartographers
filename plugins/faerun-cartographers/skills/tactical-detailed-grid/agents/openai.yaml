@@ -1,0 +1,14 @@
+interface:
+  display_name: tactical detailed grid
+  short_description: High-detail orthographic overhead RPG tactical map with faint
+    square grid. Convert any supplied geographic map to this style while preserving
+    all mapped landmarks and geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

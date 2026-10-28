@@ -1,0 +1,14 @@
+interface:
+  display_name: gis cadastral
+  short_description: Orthographic survey-like plan with precise footprints, parcels,
+    roads, land-use colors, grid, legend. Convert any supplied geographic map to this
+    style while preserving all mapped landmarks and geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

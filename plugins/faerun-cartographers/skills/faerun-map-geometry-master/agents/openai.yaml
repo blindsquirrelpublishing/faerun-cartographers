@@ -1,0 +1,14 @@
+interface:
+  display_name: faerun map geometry master
+  short_description: Required source-of-truth workflow for converting any supplied
+    settlement map into alternate fantasy cartographic styles while preserving geographic
+    landmarks and geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

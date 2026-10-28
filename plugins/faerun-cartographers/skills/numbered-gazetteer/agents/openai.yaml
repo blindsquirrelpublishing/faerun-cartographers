@@ -1,0 +1,14 @@
+interface:
+  display_name: numbered gazetteer
+  short_description: Classic D&D numbered town map with a location key. Convert any
+    supplied geographic map to this style while preserving all mapped landmarks and
+    geometry.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

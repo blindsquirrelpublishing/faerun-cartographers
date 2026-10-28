@@ -1,0 +1,13 @@
+interface:
+  display_name: fantasy land cover map
+  short_description: Forest, grassland, cropland, marsh, scrub, rock and water using
+    source-faithful map data, without inventing geographic or route features.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

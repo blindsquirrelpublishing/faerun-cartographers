@@ -1,0 +1,13 @@
+interface:
+  display_name: fantasy historical map
+  short_description: Older borders, roads, settlements and names with dates using
+    source-faithful map data, without inventing geographic or route features.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
