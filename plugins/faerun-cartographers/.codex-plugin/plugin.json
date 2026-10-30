@@ -1,14 +1,14 @@
 {
   "name": "faerun-cartographers",
-  "version": "1.0.0",
-  "description": "41 fantasy map skills with shared geometry rules and supporting files.",
+  "version": "1.1.0",
+  "description": "42 fantasy map skills with shared geometry rules and supporting files.",
   "author": {
     "name": "Murray Fife"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "Faerûn Cartographers",
-    "shortDescription": "41 fantasy map skills",
+    "shortDescription": "42 fantasy map skills",
     "longDescription": "Map styles and shared rules for terrain, towns, cities, hex maps, and map checks.",
     "developerName": "Murray Fife",
     "category": "Creativity"
