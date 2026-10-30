@@ -1,6 +1,6 @@
 # Faerûn Cartographers
 
-41 map skills by Murray Fife, bundled as one plugin so shared map rules and style files stay together.
+42 map skills by Murray Fife, bundled as one plugin so shared map rules and style files stay together.
 
 ## Use
 
@@ -16,7 +16,15 @@ codex plugin marketplace add https://github.com/blindsquirrelpublishing/faerun-c
 
 Then select Faerûn Cartographers from that marketplace.
 
+## Atlas-First workflow
+
+Start settlement projects with **faerun-atlas-first-workflow**. Create and refine the illustrated town atlas, approve its layout, then build matching map types from that same base. Reuse an approved atlas when one already exists.
+
+[Workflow skill](plugins/faerun-cartographers/skills/faerun-atlas-first-workflow/SKILL.md) · [Full workflow](plugins/faerun-cartographers/skills/faerun-atlas-first-workflow/references/atlas-first-workflow.md)
+
 ## Included skills
+
+- **faerun-atlas-first-workflow**: Refine and approve the illustrated town atlas before creating shared geometry, matching map types and scenic views.
 
 - **black-ink-contour-atlas**: Precise pen-only overhead atlas with light terrain contours. Convert any supplied geographic map to this style while preserving all mapped landmarks and geometry.
 - **black-ink-simple-reference**: Unadorned top-down pen drawing like hand-drafted building plan. Convert any supplied geographic map to this style while preserving all mapped landmarks and geometry.
@@ -72,11 +80,11 @@ Add the marketplace, then install the plugin:
 
 If the marketplace was already added, refresh it first with `/plugin marketplace update faerun-cartographers`.
 
-The plugin includes all 41 skills. Image output depends on the image tools available in your Claude setup.
+The plugin includes all 42 skills. Image output depends on the image tools available in your Claude setup.
 
 ## Example gallery
 
-Each skill includes a fictional Alderford style sample. These are visual examples, not checked survey maps or approved standard plats.
+The original 41 map skills include fictional Alderford style samples. The Atlas-First workflow includes written steps and checks. These are visual examples, not checked survey maps or approved standard plats.
 
 ### black-ink-contour-atlas
 
