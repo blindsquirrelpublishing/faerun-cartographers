@@ -1,0 +1,14 @@
+interface:
+  display_name: Faerûn Atlas-First Workflow
+  short_description: Refine the town atlas before building other maps
+  default_prompt: Use $faerun-atlas-first-workflow to build and refine an illustrated
+    town atlas, then create matching maps from its approved layout.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
