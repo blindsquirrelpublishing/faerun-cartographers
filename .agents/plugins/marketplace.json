@@ -36,6 +36,17 @@
         "installation": "AVAILABLE"
       },
       "category": "Creativity"
+    },
+    {
+      "name": "faerun-orthographic-views",
+      "source": {
+        "source": "local",
+        "path": "./plugins/faerun-orthographic-views"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Creativity"
     }
   ]
 }
