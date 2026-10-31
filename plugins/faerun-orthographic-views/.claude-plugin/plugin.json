@@ -1,0 +1,9 @@
+{
+  "name": "faerun-orthographic-views",
+  "version": "1.0.0",
+  "description": "Source-faithful 3D orthographic and high-oblique exterior views of fantasy castles, settlements and ruins.",
+  "author": {
+    "name": "Faerûn Cartographers"
+  },
+  "repository": "https://github.com/blindsquirrelpublishing/faerun-cartographers"
+}
