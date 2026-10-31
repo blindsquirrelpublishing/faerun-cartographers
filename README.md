@@ -1,6 +1,6 @@
 # Faerûn Cartographers
 
-42 map skills by Murray Fife, bundled as one plugin so shared map rules and style files stay together.
+43 map skills by Murray Fife, bundled as one plugin so shared map rules and style files stay together.
 
 ## Use
 
@@ -31,6 +31,8 @@ Start settlement projects with **faerun-atlas-first-workflow**. Create and refin
 [Workflow skill](plugins/faerun-cartographers/skills/faerun-atlas-first-workflow/SKILL.md) · [Full workflow](plugins/faerun-cartographers/skills/faerun-atlas-first-workflow/references/atlas-first-workflow.md)
 
 ## Included skills
+
+- **fantasy-1981-child-dm-map**: Homemade pencil and colored-pencil maps on graph paper, as drawn by a ten-year-old DM in 1981; keep the supplied map layout.
 
 - **faerun-atlas-first-workflow**: Refine and approve the illustrated town atlas before creating shared geometry, matching map types and scenic views.
 
@@ -88,9 +90,17 @@ Add the marketplace, then install the plugin:
 
 If the marketplace was already added, refresh it first with `/plugin marketplace update faerun-cartographers`.
 
-The plugin includes all 42 skills. Image output depends on the image tools available in your Claude setup.
+The plugin includes all 43 skills. Image output depends on the image tools available in your Claude setup.
 
 ## Example gallery
+
+### fantasy-1981-child-dm-map
+
+[Skill](plugins/faerun-cartographers/skills/fantasy-1981-child-dm-map/SKILL.md) · [Full image](plugins/faerun-cartographers/skills/fantasy-1981-child-dm-map/assets/example.jpg)
+
+![1981 child DM map style: Mirabar](plugins/faerun-cartographers/skills/fantasy-1981-child-dm-map/assets/example.jpg)
+
+The Mirabar sample shows the pencil-and-graph-paper style. Its geometry and handwritten scale are approximate; use the supplied source map for each new place.
 
 The original 41 map skills include fictional Alderford style samples. The Atlas-First workflow includes written steps and checks. These are visual examples, not checked survey maps or approved standard plats.
 
@@ -342,7 +352,7 @@ The original 41 map skills include fictional Alderford style samples. The Atlas-
 
 ## Engineering Blueprint Skills (new)
 
-A second marketplace plugin, **faerun-engineering-blueprints**, adds six matched technical map skills for master plans, lot boundaries, terrain, civil utilities, speculative ley lines and the shared geometry master. The original 42 map skills remain available.
+A second marketplace plugin, **faerun-engineering-blueprints**, adds six matched technical map skills for master plans, lot boundaries, terrain, civil utilities, speculative ley lines and the shared geometry master. The original 43 map skills remain available.
 
 [Engineering plugin and instructions](plugins/faerun-engineering-blueprints/README.md) · [Shared engineering standard](plugins/faerun-engineering-blueprints/references/common-standard.md)
 

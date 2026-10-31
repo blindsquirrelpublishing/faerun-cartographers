@@ -1,0 +1,4 @@
+interface:
+  display_name: "1981 Child DM Map"
+  short_description: "Homemade pencil maps on graph paper, circa 1981"
+  default_prompt: "Use $fantasy-1981-child-dm-map to redraw the supplied map as a ten-year-old DM’s homemade pencil map from 1981."
