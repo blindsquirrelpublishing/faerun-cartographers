@@ -23,6 +23,11 @@
       "name": "faerun-dungeon-cartography",
       "source": "./plugins/faerun-dungeon-cartography",
       "description": "Three matched dungeon map skills with a shared geometry master: 2D schematic, battle map and isometric cutaway."
+    },
+    {
+      "name": "faerun-orthographic-views",
+      "source": "./plugins/faerun-orthographic-views",
+      "description": "Source-registered 3D orthographic exterior views of fantasy settlements, castles and ruins."
     }
   ]
 }
