@@ -1,0 +1,9 @@
+{
+  "name": "faerun-architectural-cutaways",
+  "version": "1.0.0",
+  "description": "Source-faithful fantasy architectural cutaways with orthographic sections and documented underground connections.",
+  "author": {
+    "name": "Faerûn Cartographers"
+  },
+  "repository": "https://github.com/blindsquirrelpublishing/faerun-cartographers"
+}
