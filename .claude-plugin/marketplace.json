@@ -18,6 +18,11 @@
       "name": "faerun-architectural-cutaways",
       "source": "./plugins/faerun-architectural-cutaways",
       "description": "Architectural 3D orthographic cutaway skill for source-registered castle, settlement, and dungeon cross-sections."
+    },
+    {
+      "name": "faerun-dungeon-cartography",
+      "source": "./plugins/faerun-dungeon-cartography",
+      "description": "Three matched dungeon map skills with a shared geometry master: 2D schematic, battle map and isometric cutaway."
     }
   ]
 }
