@@ -7,7 +7,7 @@
     {
       "name": "faerun-cartographers",
       "source": "./plugins/faerun-cartographers",
-      "description": "43 fantasy map skills with shared rules and sample images."
+      "description": "45 fantasy map skills including storybook cadastral and classic Ultima-style pixel maps, with shared geometry rules."
     },
     {
       "name": "faerun-engineering-blueprints",
