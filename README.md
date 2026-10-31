@@ -332,3 +332,14 @@ The original 41 map skills include fictional Alderford style samples. The Atlas-
 
 ![Sample: watercolor-town-atlas](plugins/faerun-cartographers/skills/watercolor-town-atlas/assets/example.jpg)
 
+## Engineering Blueprint Skills (new)
+
+A second marketplace plugin, **faerun-engineering-blueprints**, adds six matched technical map skills for master plans, lot boundaries, terrain, civil utilities, speculative ley lines and the shared geometry master. The original 42 map skills remain available.
+
+[Engineering plugin and instructions](plugins/faerun-engineering-blueprints/README.md) · [Shared engineering standard](plugins/faerun-engineering-blueprints/references/common-standard.md)
+
+Install in Claude Code after adding this marketplace:
+
+```text
+/plugin install faerun-engineering-blueprints@faerun-cartographers
+```

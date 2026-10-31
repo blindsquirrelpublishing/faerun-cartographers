@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Faerûn Engineering Geometry Master",
+  "type": "object",
+  "required": [
+    "city",
+    "revision",
+    "units",
+    "grid",
+    "features"
+  ],
+  "properties": {
+    "city": {
+      "type": "string"
+    },
+    "revision": {
+      "type": "string"
+    },
+    "units": {
+      "const": "feet"
+    },
+    "grid": {
+      "type": "object",
+      "required": [
+        "columns",
+        "rows",
+        "cell_feet",
+        "origin_xy"
+      ],
+      "properties": {
+        "columns": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "rows": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "cell_feet": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "origin_xy": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 2,
+          "maxItems": 2
+        }
+      }
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "geometry",
+          "status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "official",
+              "derived",
+              "modelled",
+              "invented"
+            ]
+          },
+          "source": {
+            "type": "string"
+          },
+          "geometry": {
+            "type": "object",
+            "required": [
+              "type",
+              "coordinates"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

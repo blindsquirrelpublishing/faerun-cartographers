@@ -1,0 +1,122 @@
+{
+  "city": "Example walled settlement",
+  "revision": "illustrative-1",
+  "units": "feet",
+  "grid": {
+    "columns": 17,
+    "rows": 14,
+    "cell_feet": 500,
+    "origin_xy": [
+      0,
+      0
+    ]
+  },
+  "features": [
+    {
+      "id": "river_north_bank",
+      "kind": "riverbank",
+      "status": "modelled",
+      "source": "illustrative only",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            1800
+          ],
+          [
+            2000,
+            2100
+          ],
+          [
+            4400,
+            1400
+          ],
+          [
+            6500,
+            1700
+          ],
+          [
+            8500,
+            1100
+          ]
+        ]
+      }
+    },
+    {
+      "id": "river_south_bank",
+      "kind": "riverbank",
+      "status": "modelled",
+      "source": "illustrative only",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            900
+          ],
+          [
+            2000,
+            1050
+          ],
+          [
+            4400,
+            500
+          ],
+          [
+            6500,
+            850
+          ],
+          [
+            8500,
+            300
+          ]
+        ]
+      }
+    },
+    {
+      "id": "north_gate",
+      "kind": "gate",
+      "status": "invented",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4250,
+          6100
+        ]
+      }
+    },
+    {
+      "id": "central_park",
+      "kind": "greenspace",
+      "status": "invented",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3800,
+              3900
+            ],
+            [
+              4600,
+              3900
+            ],
+            [
+              4600,
+              4500
+            ],
+            [
+              3800,
+              4500
+            ],
+            [
+              3800,
+              3900
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

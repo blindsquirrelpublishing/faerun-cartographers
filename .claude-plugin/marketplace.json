@@ -8,6 +8,11 @@
       "name": "faerun-cartographers",
       "source": "./plugins/faerun-cartographers",
       "description": "42 fantasy map skills with shared rules and sample images."
+    },
+    {
+      "name": "faerun-engineering-blueprints",
+      "source": "./plugins/faerun-engineering-blueprints",
+      "description": "Six city engineering blueprint skills: shared geometry, city master, cadastral parcels, topography, infrastructure and arcane ley lines."
     }
   ]
 }

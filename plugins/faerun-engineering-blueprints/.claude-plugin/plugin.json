@@ -1,0 +1,9 @@
+{
+  "name": "faerun-engineering-blueprints",
+  "version": "1.0.0",
+  "description": "Six connected Faerûn blueprint skills: geometry master, city planning, property parcels, topography, civil utilities and speculative arcane ley lines.",
+  "author": {
+    "name": "Faerûn Cartographers"
+  },
+  "repository": "https://github.com/blindsquirrelpublishing/faerun-cartographers"
+}
