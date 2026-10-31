@@ -1,0 +1,9 @@
+{
+  "name": "faerun-dungeon-cartography",
+  "version": "1.0.0",
+  "description": "Three source-faithful dungeon map styles with a shared dungeon geometry master.",
+  "author": {
+    "name": "Faerûn Cartographers"
+  },
+  "repository": "https://github.com/blindsquirrelpublishing/faerun-cartographers"
+}
