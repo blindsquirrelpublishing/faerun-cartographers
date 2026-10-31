@@ -25,6 +25,17 @@
         "installation": "AVAILABLE"
       },
       "category": "Creativity"
+    },
+    {
+      "name": "faerun-architectural-cutaways",
+      "source": {
+        "source": "local",
+        "path": "./plugins/faerun-architectural-cutaways"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Creativity"
     }
   ]
 }
