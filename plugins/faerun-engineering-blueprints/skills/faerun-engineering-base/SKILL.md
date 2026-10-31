@@ -23,4 +23,4 @@ This is the required first skill for every engineering sheet. Read `../../refere
 The approved Mirabar reference has the River Mirar on the **south** edge, flowing generally east to west; preserve both banks and dock geometry. The reference dimensions and density are design estimates, not official D&D survey data.
 
 ## Output
-`geometry-master.json`, `geometry-master.sha256`, `source-notes.md`, `revision-log.md`, and a base alignment proof. Use the sample validator in `scripts/validate_master.py` and the schema in `references/master-schema.json` as starting tools.
+`geometry-master.json`, `geometry-master.sha256`, `source-notes.md`, `revision-log.md`, and a base alignment proof. Resolve bundled paths from this skill directory: use the sample validator in `../../scripts/validate_master.py`, the schema in `../../references/master-schema.json`, and the example in `../../examples/illustrative-master.json` as starting tools. These files are part of this plugin; they do not require the original cartography plugin.

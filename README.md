@@ -16,6 +16,14 @@ codex plugin marketplace add https://github.com/blindsquirrelpublishing/faerun-c
 
 Then select Faerûn Cartographers from that marketplace.
 
+The same Codex marketplace also lists **Faerûn Engineering Blueprints**, a separate plugin with six skills. Install it with:
+
+```sh
+codex plugin add faerun-engineering-blueprints@faerun-cartographers
+```
+
+For a previously added marketplace, first run `codex plugin marketplace upgrade faerun-cartographers`. See the [engineering setup and skill list](plugins/faerun-engineering-blueprints/README.md#install-in-codex) for checks, file paths and test status.
+
 ## Atlas-First workflow
 
 Start settlement projects with **faerun-atlas-first-workflow**. Create and refine the illustrated town atlas, approve its layout, then build matching map types from that same base. Reuse an approved atlas when one already exists.
