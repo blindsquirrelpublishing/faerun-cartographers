@@ -1,0 +1,17 @@
+{
+  "name": "faerun-architectural-cutaways",
+  "version": "1.0.0",
+  "description": "Source-faithful fantasy architectural cutaways with orthographic sections and documented underground connections.",
+  "author": {
+    "name": "Faerûn Cartographers"
+  },
+  "repository": "https://github.com/blindsquirrelpublishing/faerun-cartographers",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Faerûn Architectural Cutaways",
+    "shortDescription": "Fantasy castle and dungeon cutaways",
+    "longDescription": "Source-faithful orthographic sectional maps with underground levels.",
+    "developerName": "Faerûn Cartographers",
+    "category": "Creativity"
+  }
+}
