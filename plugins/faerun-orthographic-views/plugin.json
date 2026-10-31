@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "faerun-orthographic-views",
+  "version": "1.0.0",
+  "description": "Source-faithful 3D orthographic and high-oblique exterior views of fantasy castles, settlements and ruins.",
+  "author": {
+    "name": "Faerûn Cartographers"
+  },
+  "repository": "https://github.com/blindsquirrelpublishing/faerun-cartographers",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Faerûn 3D Orthographic Views",
+        "shortDescription": "Fantasy 3D orthographic maps",
+        "longDescription": "Source-faithful 3D orthographic and high-oblique exterior views of fantasy castles, settlements and ruins.",
+        "developerName": "Faerûn Cartographers",
+        "category": "Creativity"
+      }
+    }
+  }
+}
