@@ -13,6 +13,11 @@
       "name": "faerun-engineering-blueprints",
       "source": "./plugins/faerun-engineering-blueprints",
       "description": "Six city engineering blueprint skills: shared geometry, city master, cadastral parcels, topography, infrastructure and arcane ley lines."
+    },
+    {
+      "name": "faerun-architectural-cutaways",
+      "source": "./plugins/faerun-architectural-cutaways",
+      "description": "Architectural 3D orthographic cutaway skill for source-registered castle, settlement, and dungeon cross-sections."
     }
   ]
 }
